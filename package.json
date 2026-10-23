@@ -1,0 +1,20 @@
+{
+  "name": "twitch-sentinel-dashboard",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "latest",
+    "lucide-vue-next": "latest",
+    "pinia": "latest",
+    "vite": "latest",
+    "vue": "latest",
+    "vue-i18n": "latest"
+  },
+  "devDependencies": {}
+}
