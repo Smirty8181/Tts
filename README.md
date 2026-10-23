@@ -1,5 +1,7 @@
 # Twitch Sentinel
 
+[![Последний релиз](https://img.shields.io/github/v/release/Smirty8181/Tts?label=%D1%80%D0%B5%D0%BB%D0%B8%D0%B7&color=2ea44f)](https://github.com/Smirty8181/Tts/releases/latest)
+
 Локальная панель мониторинга Twitch с FastAPI-бэкендом и Vue-интерфейсом. Проект включает подключение к Twitch, мониторинг чата, работу с LLM-провайдерами, память и интеграции с OBS и JeetBot.
 
 ## Требования
